@@ -23,6 +23,7 @@ function exibeParesEntre1aN (n){
 }
 exibeParesEntre1aN(10);
 */
+// SEGUNDA OPÇÃO:
 
 function exibeParesEntre1aN (n){
     let i = 2;
@@ -40,4 +41,4 @@ function exibeParesEntre1aN (n){
        
     }
 
-exibeParesEntre1aN(10);
+exibeParesEntre1aN();
