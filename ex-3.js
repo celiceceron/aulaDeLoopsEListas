@@ -40,4 +40,4 @@ function exibeParesEntre1aN (n){
        
     }
 
-exibeParesEntre1aN(2);
+exibeParesEntre1aN(10);

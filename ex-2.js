@@ -18,4 +18,4 @@ function exibeNumerosDe1aN (n){
        
     }
 }
-exibeNumerosDe1aN(-1);
+exibeNumerosDe1aN(10);
